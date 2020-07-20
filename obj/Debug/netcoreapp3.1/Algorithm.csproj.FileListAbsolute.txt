@@ -1,0 +1,12 @@
+/Users/lamnguyen/Developer/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.deps.json
+/Users/lamnguyen/Developer/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.json
+/Users/lamnguyen/Developer/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.dev.json
+/Users/lamnguyen/Developer/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll
+/Users/lamnguyen/Developer/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csprojAssemblyReference.cache
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfoInputs.cache
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfo.cs
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb
+/Users/lamnguyen/Developer/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.genruntimeconfig.cache

@@ -8,14 +8,7 @@ namespace Algorithm
         static void Main(string[] args)
         {
             int target=3;
-            int [] arrays= new int [3];
-            Console.Write("\n\nTwo sum: \n");
-            Console.Write("Input 3 numbers: \n");
-            for (int i = 0; i < 3; i++)
-            {
-                Console.Write("number - {0} :", i);
-                arrays[i]=Convert.ToInt32(Console.ReadLine());
-            }
+            int [] arrays= {1,3,2};
             var a=TwoSum(arrays,target);
             Console.WriteLine(a);
         }

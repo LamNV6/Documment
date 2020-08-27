@@ -7,10 +7,12 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-            int target=3;
-            int [] arrays= {1,3,2};
-            var a=TwoSum(arrays,target);
-            Console.WriteLine(a);
+            // int target = 3;
+            // int[] arrays = { 1, 3, 2 };
+            // var a = TwoSum(arrays, target);
+            // Console.WriteLine(a);
+            var result =Reverse(345);
+            Console.WriteLine(result);
         }
         public static int[] TwoSum(int[] nums, int target)
         {
@@ -33,6 +35,21 @@ namespace Algorithm
             }
 
             return null;
+        }
+        public static int Reverse(int x)
+        {
+            int y = 0;
+
+            while (x != 0)
+            {
+                int yy = y * 10 + x % 10;
+
+                if ((yy - x % 10) / 10 != y) return 0;
+                else y = yy;
+
+                x = x / 10;
+            }
+            return y;
         }
     }
 }
